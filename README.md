@@ -52,4 +52,5 @@ This project is perfect for:
 <p> 1. If you have Python installed then follow this step. Download or copy the code and open VSCODE and past there. NOTE:- file name extention must be .py and run inside the teminal </p>
 <p> 2. Without installed python you can run this Project. you can download exe file of this Project and run. click on link and click on View raw</p>
 <a herf="https://github.com/PrajapatiPramodPandit/Quiz_Test/blob/main/output/main.exe" download>Download exe file</a>
+https://github.com/PrajapatiPramodPandit/Quiz_Test/raw/main/output/main.exe
 
